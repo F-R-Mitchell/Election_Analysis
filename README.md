@@ -35,3 +35,6 @@ Winning Percentage: 73.8%
 
 # Election-Audit Summary
 This script can be used as a foundation for any election. The first clear alteration that would need to be made would be to fit the size of the election. For example, if it were a national election, there would need to be a dictionary to hold each state. Another alteration would be to include the electoral college as the count of electoral votes. If it could be done then another alteration that could be made would be to refactor the code to reduce the runtime of processing millions of votes. 
+
+
+* I would like to note that I had to change the file path to run the script. We ran into the same error during one of the classes and this is the solution that I found.
