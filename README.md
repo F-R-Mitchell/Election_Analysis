@@ -29,3 +29,9 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 
 Winning Percentage: 73.8%
+## Verification 
+
+![Election_Results](https://user-images.githubusercontent.com/87910875/133146689-457a08e5-44a3-446f-a03f-dd46cf292175.png)
+
+# Election-Audit Summary
+This script can be used as a foundation for any election. The first clear alteration that would need to be made would be to fit the size of the election. For example, if it were a national election, there would need to be a dictionary to hold each states. Another alteration would be to include the electoral college as we the count of electoral votes. 
